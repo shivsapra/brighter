@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Brighter</string>
+    <string name="title_activity_main">Brighter</string>
+    <string name="package_name">com.brighter.social</string>
+    <string name="custom_url_scheme">com.brighter.social</string>
+</resources>
